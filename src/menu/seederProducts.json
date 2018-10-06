@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Cilok",
+    "price": 5000
+  },
+  {
+    "name": "Mendoan",
+    "price": 6500
+  },
+  {
+    "name": "Tahu",
+    "price": 5500
+  },
+  {
+    "name": "Tahu Bulat",
+    "price": 7000
+  },
+  {
+    "name": "Bakwan",
+    "price": 3000
+  },
+  {
+    "name": "Tempe",
+    "price": 2000
+  },
+  {
+    "name": "Pecel",
+    "price": 8000
+  },
+  {
+    "name": "Rujak",
+    "price": 6500
+  }
+]
